@@ -55,9 +55,8 @@
             "id": "11",
             "title": "Cookies and analysis tools"
         },
-
         {
-            "content": "We reserve the right to change or update these Terms at any time. You will be notified of any such changes. Continued use of the App after any such changes constitutes your acceptance of the updated Terms.",
+            "content": "We reserve the right to change or update these Terms at any time. We encourage you to regularly review these Terms of Use to stay informed about any changes. By continuing to use our services, you acknowledge and agree to be bound by the most current version of these Terms of Use. We reserve the right to update these Terms at any time, and your continued use of our services after any such update constitutes your acceptance of the updated Terms.",
             "id": "12",
             "title": "Changes to these Terms"
         },
@@ -80,6 +79,16 @@
             "content": "We assume no responsibility or liability for any conflict, damage or dispute that may arise from the use of the App. This includes not only advertising-related issues, but any disputes or damages that may occur while using the app. The App is provided \"as is\" and we assume no guarantee or liability for its performance or possible consequences of use.",
             "id": "16",
             "title": "Limitation of Liability for Conflicts and Damages"
+        },
+        {
+            "id": "17",
+            "title": "Contact",
+            "content": "If you have any questions about these terms of use, the use of the app, the Terms, or the Privacy Policy, you can contact us at germanarticle@gmail.com or using the Support Form provided in the app."
+        },
+        {
+            "content": "21st January, 2024",
+            "id": "0",
+            "title": "Last Update"
         }
     ]
 }
