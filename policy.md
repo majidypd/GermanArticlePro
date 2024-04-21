@@ -1,12 +1,12 @@
 {
     "data": [
         {
-            "content": "These Terms of Use govern your use of the ArticlePro Services. Please read these Terms carefully before using our Services. By using our Services, you agree to these Terms of Use.",
+            "content": "These Terms of Use govern your use of the \"Learn German Article\" Services. Please read these Terms carefully before using our Services. By using our Services, you agree to these Terms of Use.",
             "id": "1",
             "title": "Scope"
         },
         {
-            "content": "ArticlePro provides you with a software application (the \"App\"). Your acquisition and use of the App, whether through purchase or other means, are governed by a limited, non-transferable license as outlined in these Terms of Use.",
+            "content": "\"Learn German Article\" provides you with a software application (the \"App\"). Your acquisition and use of the App, whether through purchase or other means, are governed by a limited, non-transferable license as outlined in these Terms of Use.",
             "id": "2",
             "title": "Services and License"
         },
